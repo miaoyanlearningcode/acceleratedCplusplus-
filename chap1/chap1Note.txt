@@ -1,0 +1,1 @@
+1. When we ask the library to read astring, it begins by discarding whitespace characters (space, tab, backspace, or theend of the line) from the input, then reads characters into name until it encountersanother whitespace character or end-of-fil
