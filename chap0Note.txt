@@ -1,0 +1,5 @@
+std::cout -> type is std::ostream
+scope: std::cout   :: -> scope operator
+	   curly braces {}
+
+string: begin and end with ""
